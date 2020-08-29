@@ -1,28 +1,26 @@
-= RPG Template
-Chris L. Barnes <chrislloydbarnes@gmail.com>
+= Fate Condensed
+Evil Hat Productions
 :toc: left
-:!player-only:
-
-Once upon a time...
-
-== Introduction
-
-This is a chapter.
-
-== Rules
-
-Players roll a six-sided die.
-The highest roll wins!
-
-ifndef::player-only[]
-
-== Game Master rules
-
-Actually, the person with the best voice acting may win.
-
-endif::player-only[]
 
 :leveloffset: +1
+
+include::chapter/introduction.adoc[]
+
+include::chapter/getting_started.adoc[]
+
+include::chapter/taking_action_rolling_the_dice.adoc[]
+
+include::chapter/aspects_and_fate_points.adoc[]
+
+include::chapter/challenges_conflicts_and_contests.adoc[]
+
+include::chapter/advancement.adoc[]
+
+include::chapter/being_the_game_master.adoc[]
+
+include::chapter/optional_rules/index.adoc[]
+
+include::chapter/what_version_is_this.adoc[]
 
 include::CREDITS.adoc[]
 

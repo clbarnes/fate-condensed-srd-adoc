@@ -1,0 +1,11 @@
+= Faster Contests
+
+Some groups may feel contests involve too many attempts to create
+advantages per exchange. For those groups, try the following method: In
+each exchange of a contest, each participant may choose only one of
+these three options:
+
+* Make the overcome roll for their side (*page XX*).
+* Roll to create an advantage, but no teamwork bonus (*page XX*).
+* Provide their teamwork bonus to their side’s overcome roll or
+another’s attempt to create an advantage. Don’t roll.

@@ -1,0 +1,33 @@
+= Optional rules
+
+These are a few optional or alternative rules you can decide to use in your game.
+
+:leveloffset: +1
+
+include::conditions.adoc[]
+
+include::changing_the_skill_list.adoc[]
+
+include::character_creation_as_you_play.adoc[]
+
+include::countdowns.adoc[]
+
+include::extreme_consequences.adoc[]
+
+include::faster_contests.adoc[]
+
+include::full_defense.adoc[]
+
+include::obstacles.adoc[]
+
+include::scale.adoc[]
+
+include::time_shifts.adoc[]
+
+include::ways_to_break_the_rules_for_big_bads.adoc[]
+
+include::ways_to_handle_multiple_targets.adoc[]
+
+include::weapon_and_armor_ratings.adoc[]
+
+:leveloffset: -1
