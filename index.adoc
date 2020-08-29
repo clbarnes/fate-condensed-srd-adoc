@@ -1,6 +1,7 @@
 = Fate Condensed
 Evil Hat Productions
 :toc: left
+:sectnums:
 
 :leveloffset: +1
 
