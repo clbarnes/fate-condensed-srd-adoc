@@ -129,22 +129,9 @@ the highest-rated skill at Great (+4), as follows:
 In _Fate Condensed_, and Fate in general, all ratings are organized into
 a ladder of adjectives, shown here.
 
-[cols=",",]
+[%header, format=tsv]
 |===
-|Rating |Adjective
-|+8 |Legendary
-|+7 |Epic
-|+6 |Fantastic
-|+5 |Superb
-|+4 |Great
-|+3 |Good
-|+2 |Fair
-|+1 |Average
-|+0 |Mediocre
-|-1 |Poor
-|-2 |Terrible
-|-3 |Catastrophic
-|-4 |Horrifying
+include::../table/adjective_ladder.tsv[]
 |===
 
 ==== Skill List
@@ -396,18 +383,9 @@ Your rating in Physique affects how many total physical stress boxes you
 have. Will does the same for your mental stress. Refer to the following
 table:
 
-[cols=",",]
+[%header, format=tsv]
 |===
-|Physique/Will |Physical/Mental Stress
-
-|Mediocre (+0) |*[1][1][1]*
-
-|Average (+1) or Fair (+2) |*[1][1][1] [1]*
-
-|Good (+3) or Great (+4) |*[1][1][1] [1][1][1]*
-
-|Superb (+5) and higher |*[1][1][1] [1][1][1]* and a second mild
-consequence slot specifically for physical or mental hits
+include::../table/stress_and_consequences.tsv[]
 |===
 
 You’ll learn how stress and consequences work during play in _“Taking
