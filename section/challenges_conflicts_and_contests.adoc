@@ -122,7 +122,7 @@ otherwise.
 
 Often, you won’t need to know who is acting precisely when, but in
 contests and conflicts turn order can become important. These scenes
-take place over a series of [#_idTextAnchor019]####**exchanges**. In an
+take place over a series of **exchanges**. In an
 exchange, each involved character can take one overcome, create an
 advantage, or attack action, and can move once. (Contests work slightly
 differently; see *page XX*.) Because defending is a reaction to someone
@@ -293,7 +293,7 @@ interrogations, and eldritch assaults upon the mind.
 
 === Taking Harm
 
-[#_idTextAnchor020]####When an attack is successful, the defender must
+When an attack is successful, the defender must
 absorb the hit, which has shifts equal to the difference between the
 attack’s effort and defense’s effort.
 
@@ -314,7 +314,7 @@ three physical stress boxes; already the fight is proving dangerous.
 
 ==== Stress
 
-Simply put, [#_idTextAnchor021]####**stress** is plot armor. It’s a
+Simply put, **stress** is plot armor. It’s a
 resource used to keep your character up and in the fight when their foes
 hit them. When you mark stress boxes to absorb a hit, you’re saying
 things like, “That _just_ missed me,” or “Whoa, that knocked the wind
@@ -336,7 +336,7 @@ you first.
 [[consequences]]
 ==== Consequences
 
-*[#_idTextAnchor022]####Consequences* are new aspects you write on your
+*Consequences* are new aspects you write on your
 character sheet when your character takes a hit, representing the real
 harm and injury your character suffers.
 
@@ -383,7 +383,7 @@ absorbs with his last remaining stress box.
 ==== Getting Taken Out
 
 If you can’t absorb all the shifts of a hit with stress and
-consequences, you’re [#_idTextAnchor023]####**taken out**.
+consequences, you’re **taken out**.
 
 Getting taken out is bad. Whoever took you out decides what happens.
 Given dangerous situations and powerful enemies, this could mean you’re
@@ -428,7 +428,7 @@ laid before him.
 ==== Conceding
 
 So how do you keep from dying horribly—or worse? You can interrupt any
-action in a conflict to [#_idTextAnchor024]####**concede** as long as
+action in a conflict to **concede** as long as
 the dice haven’t hit the table yet. Just give in. Tell everyone that
 you’re done, that you can’t keep going. Your character loses and exits
 the conflict, but *you gain a fate point* plus an extra one for each

@@ -9,7 +9,7 @@ XX*.)
 
 == Minor Milestones
 
-Minor [#_idTextAnchor025]####milestones happen at the end of a session,
+Minor milestones happen at the end of a session,
 part of the way through dealing with a story arc. They are focused on
 adjusting your character laterally rather than advancing the character.
 You may not wish to use a minor milestone, which is fine. It doesn’t

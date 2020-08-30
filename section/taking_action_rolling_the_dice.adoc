@@ -78,15 +78,15 @@ difficulty an enemy faces.
 
 === Invoking Aspects
 
-[#_idTextAnchor003]####When you take action but the dice come up short,
+When you take action but the dice come up short,
 you don’t have to sit back and accept failure. (Though you totally can.
 That’s fun too.) The aspects in play give you options and opportunity to
 succeed.
 
 When an aspect could justifiably help your efforts, describe how it
-helps and spend a fate point to [#_idTextAnchor004]####**invoke** it (or
+helps and spend a fate point to **invoke** it (or
 use a free invoke). What is and isn’t justifiable is subject to the
-*[#_idTextAnchor005]####bogus rule*—anyone can say “that’s bogus!” to
+*bogus rule*—anyone can say “that’s bogus!” to
 invoking an aspect. Simply put, the bogus rule is a *calibration tool*
 that anyone at the table may use to help the group make sure the game
 stays true to its vision and concept. You can use the safety tools
@@ -122,7 +122,7 @@ aspect (*page XX*).
 
 === Using Stunts
 
-[#_idTextAnchor006]####Stunts may give you a bonus to your roll,
+Stunts may give you a bonus to your roll,
 provided you meet the criteria written in the stunt, such as the
 circumstances, action, or skill used. You may wish to use create
 advantage (*page XX*) to introduce aspects that line up with those
@@ -180,7 +180,7 @@ now that subtlety is out the window, or cut his losses and run?
 
 ==== Success at a major cost
 
-Second is [#_idTextAnchor007]####**success at a major cost**. You do
+Second is **success at a major cost**. You do
 what you set out to do, but there’s a significant price to be paid—the
 situation gets worse or more complicated. GM, you can either declare
 this is the result or can offer it in place of failure. Both options are
@@ -219,7 +219,7 @@ can play out a couple ways: success at a minor cost, or partial success.
 
 ==== Success at a minor cost
 
-The first is [#_idTextAnchor008]####**success at a minor cost**—a few
+The first is **success at a minor cost**—a few
 points of stress, story details about difficulty or complication but
 aren’t hindrances themselves, and a boost (*page XX*) to the enemy are
 all minor costs.
@@ -267,7 +267,7 @@ documents, he finds a map of the old Akeley mansion.
 
 == Actions
 
-There are four [#_idTextAnchor009]####actions you can roll, each with a
+There are four actions you can roll, each with a
 specific purpose and effect on the story:
 
 * *Overcome* to surmount obstacles with your skills.
@@ -281,7 +281,7 @@ or oppose an effort to overcome an obstacle.
 Overcome to surmount obstacles with your skills.
 
 Every character will face untold challenges in the course of the story.
-The [#_idTextAnchor010]####**overcome** action is how they face and
+The **overcome** action is how they face and
 surmount those obstacles.
 
 A character good at Athletics can climb over walls and race through
@@ -318,7 +318,7 @@ on the cost instead.
 
 Create A situation aspect or gain a benefit from an existing aspect.
 
-You can use the [#_idTextAnchor011]####**create an advantage** action to
+You can use the **create an advantage** action to
 change the course of the story. By using your skills to introduce new
 aspects or add invokes to existing aspects, you can stack the deck for
 yourself and your teammates. You might change the circumstances (barring
@@ -387,7 +387,7 @@ Ethan can use that invoke to help himself get away.
 
 Attack to harm the enemy.
 
-The [#_idTextAnchor012]####**attack** action is how you try to take out
+The **attack** action is how you try to take out
 an opponent—whether you’re looking to kill a loathsome monster, or knock
 out an innocent guard who doesn’t know the truth about what he’s
 guarding. An attack can be unloading with a machine gun, throwing a

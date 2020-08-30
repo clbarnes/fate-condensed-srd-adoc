@@ -23,7 +23,7 @@ farcical murder-clowns. It’s up to you!
 === Who Are You?
 
 Once you’ve decided on a setting, it’s time for the players to
-[#_idTextAnchor000]####make characters—also called PCs. Each player
+make characters—also called PCs. Each player
 takes on the role of one of the heroes of your story, controlling all
 their actions. You get to build the character you want to see in the
 world. Keep in mind that Fate characters are competent, dramatic, and
@@ -124,7 +124,7 @@ the highest-rated skill at Great (+4), as follows:
 * All other skills at Mediocre (+0)
 
 [[the-a-id-_idtextanchor001-a-adjective-ladder]]
-==== The [#_idTextAnchor001]####Adjective Ladder
+==== The Adjective Ladder
 
 In _Fate Condensed_, and Fate in general, all ratings are organized into
 a ladder of adjectives, shown here.
@@ -373,7 +373,7 @@ session*.
 
 === Stress and Consequences
 
-*[#_idTextAnchor002]####Stress* and *consequences* are how your
+*Stress* and *consequences* are how your
 character withstands the mental and physical toll of their adventures.
 Characters have at least three one-point boxes for physical stress and
 at least three one-point boxes for mental stress. They also get one slot

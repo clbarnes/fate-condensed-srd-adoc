@@ -145,7 +145,7 @@ present to the PCs when determining their ratings.
 
 == Your Fate Points
 
-At the start of each scene, begin with a [#_idTextAnchor026]####pool of
+At the start of each scene, begin with a pool of
 fate points equal to the number of PCs. If the scene includes a major
 NPC or monster that conceded (*page XX*) a previous conflict, or
 received hostile invokes (*page XX*) in a previous scene, those fate

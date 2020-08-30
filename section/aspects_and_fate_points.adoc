@@ -1,6 +1,6 @@
 = Aspects and Fate Points
 
-[#_idTextAnchor013]####An *aspect* is a word or phrase that describes
+An *aspect* is a word or phrase that describes
 something special about a person, place, thing, situation, or group.
 Almost anything you can think of can have aspects. A person might have a
 reputation as the *Greatest Sharpshooter in the Wasteland* (see below
@@ -84,7 +84,7 @@ absorbing a hit, often from attacks (*page XX*).
 
 === Boosts
 
-A [#_idTextAnchor014]####**boost** is a special kind of aspect,
+A **boost** is a special kind of aspect,
 representing an extremely temporary or minor situation. You cannot
 compel a boost or spend a fate point to invoke it. You may invoke it
 once for free, after which it vanishes. An unused boost vanishes when
@@ -115,8 +115,8 @@ for details.
 === Invokes
 
 To unlock the true power of aspects and make them help you, you’ll need
-to spend [#_idTextAnchor015]####**fate points** to
-[#_idTextAnchor016]####**invoke** them during dice rolls (*page XX*).
+to spend **fate points** to
+**invoke** them during dice rolls (*page XX*).
 Keep track of your fate points with pennies or glass beads or poker
 chips or some other tokens.
 
@@ -139,7 +139,7 @@ origin.”
 
 Most of the time an aspect is invoked, it’s a character aspect or a
 situation aspect. Sometimes you’ll invoke enemies’ character aspects
-_against_ them. This is called a [#_idTextAnchor017]####**hostile
+_against_ them. This is called a **hostile
 invocation**, and it works just like invoking any other aspect—pay a
 fate point and get a +2 to your roll or reroll the dice. There’s one
 small difference—*when you make a hostile invocation, you give the fate
@@ -157,7 +157,7 @@ paying is for when it’s a stretch.
 
 === Compels
 
-Aspects can be [#_idTextAnchor018]####**compelled** to complicate the
+Aspects can be **compelled** to complicate the
 situation and earn fate points. To compel an aspect, the GM or a player
 offers a fate point to the player whose character is being compelled,
 and tells them why an aspect is making things more difficult or
