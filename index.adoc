@@ -1,7 +1,8 @@
-= Fate Condensed
-Evil Hat Productions
+= FATE Condensed
+Evil Hat Productions <https://www.evilhat.com/>
 :toc: left
 :sectnums:
+:sectanchors:
 
 :leveloffset: +1
 
