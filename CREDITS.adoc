@@ -3,6 +3,10 @@
 .Asciidoctor layout
 - Chris L. Barnes
 
+.https://github.com/amazingrando/fate-srd-content[Standardized FATE SRD HTML files]
+- Randy Oest, aka https://randyoest.com[Amazing Rando]
+- John Alan Large, aka https://reddicediaries.com/[Red Dice Diaries]
+
 == Fate
 
 Fate Condensed by PK Sullivan, Ed Turner, and Fred Hicks. Additional
