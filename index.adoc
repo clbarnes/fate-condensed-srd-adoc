@@ -5,23 +5,23 @@ Evil Hat Productions
 
 :leveloffset: +1
 
-include::chapter/introduction.adoc[]
+include::section/introduction.adoc[]
 
-include::chapter/getting_started.adoc[]
+include::section/getting_started.adoc[]
 
-include::chapter/taking_action_rolling_the_dice.adoc[]
+include::section/taking_action_rolling_the_dice.adoc[]
 
-include::chapter/aspects_and_fate_points.adoc[]
+include::section/aspects_and_fate_points.adoc[]
 
-include::chapter/challenges_conflicts_and_contests.adoc[]
+include::section/challenges_conflicts_and_contests.adoc[]
 
-include::chapter/advancement.adoc[]
+include::section/advancement.adoc[]
 
-include::chapter/being_the_game_master.adoc[]
+include::section/being_the_game_master.adoc[]
 
-include::chapter/optional_rules/index.adoc[]
+include::section/optional_rules/index.adoc[]
 
-include::chapter/what_version_is_this.adoc[]
+include::section/what_version_is_this.adoc[]
 
 include::CREDITS.adoc[]
 
