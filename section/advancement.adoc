@@ -61,77 +61,28 @@ milestone, so she also increases her Mediocre (+0) Empathy to Average
 (+1). Now she has one Great (+4), two Good (+3), four Fair (+2), and
 four Average (+1) skills.
 
-The pyramid
-
-+4
-
-{empty}[0]
-
-+3
-
-{empty}[0][0]
-
-+2
-
-{empty}[0][0][0]
-
-+1
-
-{empty}[0][0][0][0]
-
-Not Valid
-
-+4
-
-{empty}[0]
-
-+3
-
-{empty}[0][0]
-
-+2
-
-{empty}[0][0][0][0]
-
-+1
-
-{empty}[0][0][0]
-
-Valid
-
-+4
-
-{empty}[0]
-
-+3
-
-{empty}[0][0]
-
-+2
-
-{empty}[0][0][0][0]
-
-+1
-
-{empty}[0][0][0][0]
-
-also Valid
-
-+4
-
-{empty}[0]
-
-+3
-
-{empty}[0][0][0]
-
-+2
-
-{empty}[0][0][0]
-
-+1
-
-{empty}[0][0][0]
+|===
+2+|*The pyramid*
+|Great (+4) |[0]
+|Good (+3) |[0][0]
+|Fair (+2) |[0][0][0]
+|Average (+1) |[0][0][0][0]
+2+|*Not valid*
+|Great (+4) |[0]
+|Good (+3) |[0][0]
+|Fair (+2) |[0][0][0][0]
+|Average (+1) |[0][0][0]
+2+|*Valid*
+|Great (+4) |[0]
+|Good (+3) |[0][0]
+|Fair (+2) |[0][0][0][0]
+|Average (+1) |[0][0][0][0]
+2+|*Also valid*
+|Great (+4) |[0]
+|Good (+3) |[0][0][0]
+|Fair (+2) |[0][0][0]
+|Average (+1) |[0][0][0]
+|===
 
 == Sessions and Arcs
 
